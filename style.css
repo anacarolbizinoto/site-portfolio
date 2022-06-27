@@ -10,6 +10,26 @@ body {
     width: 100%;
 }
 
-h1, h2, h3 {
+header {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+
+.Projetos {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.Contato {
+    display: grid;
+    margin-top: 2cm;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
 }
